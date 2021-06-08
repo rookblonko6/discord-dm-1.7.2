@@ -203,5 +203,5 @@ async def resolve(ctx, error):
 		await ctx.send("Please Mention/Enter A Valid Member")
 		return
 
-# Run Bot - duh!
+# Run Bot - duh!!
 client.run(token)
